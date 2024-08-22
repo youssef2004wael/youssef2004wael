@@ -69,12 +69,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/youssef2004wael/youssef2004wael/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=youssef2004wael&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
